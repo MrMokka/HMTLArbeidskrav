@@ -16,8 +16,6 @@ nav{
 /* Header */
 
 #logo{
-	height:69px;
-	width:150px;
 	float:left;
 	margin-left:10px;
 }
@@ -29,7 +27,6 @@ nav{
 	margin:auto;
 	font-size:45px;
 	position:relative;
-	left:13%;
 }
 
 @media only screen and (max-width: 1100px) {
@@ -44,7 +41,10 @@ nav{
 	}
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5344a65c48492406db4c6c20f6faef78a02f6441
 
 
 
