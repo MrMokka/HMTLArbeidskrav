@@ -24,15 +24,12 @@ nav{
 }
 
 
-
-
 #text-logo{
 	font-family: 'Nosifer', cursive;
 	color:#FACD63;
 	margin:auto;
 	font-size:45px;
 	position:relative;
-	left:14%;
 }
 
 @media only screen and (max-width: 1100px) {
