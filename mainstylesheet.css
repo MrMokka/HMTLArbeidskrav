@@ -16,14 +16,35 @@ nav{
 /* Header */
 
 #logo{
-	width:100px;
+	height:69px;
+	width:150px;
+	float:left;
+	margin-left:10px;
 }
 
-#header-list{
-	
+
+
+
+#text-logo{
+	font-family: 'Nosifer', cursive;
+	color:#FACD63;
+	margin:auto;
+	font-size:45px;
+	position:relative;
+	left:13%;
 }
 
-.header-list-element{
+@media only screen and (max-width: 1100px) {
+    #text-logo {
+        font-size:30px;
+    }
+}
+
+@media only screen and (max-width:760px){
+	#text-logo {
+		left:0%;
+	}
+}
 
 }
 
@@ -110,6 +131,4 @@ nav{
 ::-webkit-scrollbar-corner {
       background-color: black;
 }
-
-
 
