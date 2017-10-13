@@ -16,6 +16,9 @@ nav{
 /* Header */
 
 #logo{
+	height:50%;
+	height:95%;
+	width:10%;
 	float:left;
 	margin-left:10px;
 }
@@ -41,10 +44,6 @@ nav{
 	}
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 5344a65c48492406db4c6c20f6faef78a02f6441
 
 
 
