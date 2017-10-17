@@ -75,6 +75,7 @@ footer{
   text-align: center;
   padding-bottom:17px;
   color:#FACD63;
+  z-index: 3;
 }
 
 /*Ting som skal være med på begge sider slutter her*/
@@ -161,39 +162,24 @@ footer{
 }
 
 #container-1{
-	background-color: #A78EB8;
+	background-color: #644B77;
 	top: 5%;
 }
 
 #container-2{
-	background-color: #A78EB8;
+	background-color: #644B77;
 	top: 8%;
 }
 
 #container-3{
-	background-color: #A78EB8;
+	background-color: #644B77;
 	top: 11%;
-}
-
-#container-4{
-	background-color: #A78EB8;
-	top: 14%;
-}
-
-#container-5{
-	background-color: #A78EB8;
-	top: 17%;
-}
-
-#container-6{
-	background-color: #A78EB8;
-	top: 20%;
 }
 
 #bottomSpacer {
 	position: relative;
 	top: 23%;
-	height: 50px;
+	height: 100px;
 }
 
 
@@ -248,6 +234,7 @@ footer{
 .list{
 	margin: 0;
 	list-style-image: url("pictures/pumkin.png");
+}
 
 .p-2{
 	letter-spacing: 1.5px;
@@ -263,6 +250,7 @@ footer{
 
 ::-webkit-scrollbar {
       width: 20px;
+      z-index: 9002;
 }
 
 ::-webkit-scrollbar-track {
