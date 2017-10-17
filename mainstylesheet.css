@@ -136,7 +136,10 @@ footer{
 	overflow-x: hidden;
 }
 
-<<<<<<< HEAD
+/* Containers */
+
+.container { display: flex; }
+.container > div:nth-child(1) { flex: 1; }
 
 
 .container{
