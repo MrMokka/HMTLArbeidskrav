@@ -93,6 +93,16 @@ footer{
 #content-container h1{
 	text-align:center;
 	margin-top:0;
+	font-family: 'Nosifer', cursive;
+	color:#2E2E2E;
+}
+
+.info-container{
+	height:78%;
+	width:40%;
+	background-color:red;
+	margin-left:5%;
+	float:left;
 }
 
 @media only screen and (max-width: 1330px) {
